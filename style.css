@@ -1,0 +1,43 @@
+.slider h3,
+.slider h5 
+.clients h3{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+.brand-logo{
+	font-family: viga;
+}
+
+.parallax-container {
+	height: 240px;
+
+}
+
+.parallax img {
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+.clients img{
+	max-width: 150px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+section, footer{
+	padding: 20px 0;
+}
+h6 h2{
+	font-family: viga;
+}
+
+.about {
+	margin-bottom: 200px;
+}
+.navbar-fixed {
+	opacity: 0.4;
+}
+.portfolio img{
+	border-radius: 50%;
+}
+.col img{
+	width: 150px;
+}
+
